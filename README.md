@@ -323,7 +323,9 @@ function ProductDeletionComponent() {
 export default ProductDeletionComponent;
 ```
 ## OUTPUT:
-image image
+![image](https://github.com/Archana2003-Jkumar/Ecommerce/assets/93427594/f49fe1a3-73f7-456f-89f5-73b845ed3af7)
+![image](https://github.com/Archana2003-Jkumar/Ecommerce/assets/93427594/8f044cac-7a0e-4723-bf14-03cd3a200984)
+
 
 ## RESULT:
 Hence, E-commerce shopping application is developed using react, springboot and sql.
